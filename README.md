@@ -14,12 +14,12 @@ There were no manipulations or calculations applied to the NYPD Arrest Dataset p
 
 ## Question #1 - What is the crime rate for each of the 5 boroughs? 
 
-## Tableau Visualization 
-## Importance
+# Tableau Visualization 
+# Importance
  If our client were the NYPD, this question is important for them to better understand, in general, where the most crimes are committed in the city. This information can help determine where its efforts and funding should be primarily spent, as the police stations in boroughs with higher crime may need more resources than stations in low crime areas. This funding could include more training for officers and advancements on weapons or state vehicles. This data relates to the dataset since each arrest listed contains the borough/location where the arrest took place, so we can therefore find the total count of crimes within each borough.  
 
-## Analysis & Results
+# Analysis & Results
 ## Question #2 - Which borough has the highest crime rate, and of that number what percentage is representative of violent crimes?
-## Tableau Visualization 
-## Importance
-## Analysis & Results
+# Tableau Visualization 
+# Importance
+# Analysis & Results
